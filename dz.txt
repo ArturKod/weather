@@ -1,0 +1,2 @@
+Прогноз погоды 
+https://api.openweathermap.org/data/2.5/forecast?q=Moscow&appid=82d18c260f5f2d9b4f74e6d383d10282

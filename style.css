@@ -1,0 +1,22 @@
+.row {
+  margin: 0 auto !important;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.input-group {
+  margin-top: 40px;
+  width: 450px !important;
+}
+
+.card {
+  width: 350px;
+  margin: 20px;
+}
+
+.card-img-top {
+  width: 100px !important;
+}/*# sourceMappingURL=style.css.map */
